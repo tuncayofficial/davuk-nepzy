@@ -14,7 +14,7 @@ Bundan sonra oyununuz çalışacaktır. Keyifler diliyorum.
 
 # Emeği geçenler
 
-Design : Liquor
-Programmer : Henry
+* Design : Liquor
+ * Programmer : Henry
 
-## Dip Not : Oyun yapIm aşamasındadır.
+## Dip Not : Oyun yapım aşamasındadır.
